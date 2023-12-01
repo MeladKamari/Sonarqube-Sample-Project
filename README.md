@@ -1,3 +1,3 @@
-Sonarqube .Net Sample Project
+# Sonarqube .Net Sample Project
 Sample how to use Docker compose + Sonarqube + .Net 
 
