@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <RootNamespace>Sonar</RootNamespace>
+        <AssemblyName>Sonar</AssemblyName>
+    </PropertyGroup>
+</Project>
