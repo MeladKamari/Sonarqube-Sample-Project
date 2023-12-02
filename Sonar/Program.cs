@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿throw new Exception("Hello, World!");
